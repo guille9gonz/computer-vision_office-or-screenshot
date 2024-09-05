@@ -16,5 +16,5 @@ def main(image_path):
 # Main gets the image path and starts the prediction
 # Path has to use "/" instead of "\"
 if __name__ == '__main__':
-    image_path = "C:/Users/AIR/Desktop/DocsGuille/PyProjects/image_office_classifier/images_dataset/testing/img_screen_7.png"
+    image_path = "testing\img_office_1.png"
     main(image_path)
