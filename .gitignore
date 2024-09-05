@@ -1,2 +1,5 @@
 venv
 testing
+images_dataset
+__pycache__
+.vscode
