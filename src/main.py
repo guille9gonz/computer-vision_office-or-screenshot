@@ -14,7 +14,6 @@ def main(image_path):
     cnn_model.image_plot(image_path, result)
 
 # Main gets the image path and starts the prediction
-# Path has to use "/" instead of "\"
 if __name__ == '__main__':
     image_path = "testing\img_office_1.png"
     main(image_path)
