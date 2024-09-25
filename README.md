@@ -1,4 +1,4 @@
-# Project Title: Image Classification with Convolutional Neural Network (CNN)
+Image Classification with Convolutional Neural Network (CNN)
 ## Overview
 This project implements a Convolutional Neural Network (CNN) model to classify images into two categories: Office and Screenshot. The model is trained using TensorFlow and Keras on a custom dataset of 1,600 images, categorized as "office" or "screenshot".
 
